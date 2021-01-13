@@ -11,18 +11,28 @@ A [full demo of my project](https://youtu.be/nBfqfQ3IQqk) can be viewed on YouTu
 
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
 
-**All Pages** <br/>
-<img src="Demo/wiki1Allpages.gif" width=62%/>
-<br/>**Search page** <br/>
-<img src="Demo/wiki2search.gif" width=62%/>
-<br/> **New Entry** <br/>
-<img src="Demo/wiki3new2.gif" width=62%/>
+### All Pages
+<img src="Demo/wiki1Allpages.gif" width=80%/>
+
+
+### Search page
+<img src="Demo/wiki2search.gif" width=80%/>
+
+
+### New Entry
+<img src="Demo/wiki3new2.gif" width=80%/>
+
 <br/>
-<img src="Demo/wiki3new1.gif" width=62%/>
-<br/> **Edit the entry** <br/>
-<img src="Demo/wiki4edit.gif" width=62%/>
-<br/> **Random page** <br/>
-<img src="Demo/wiki5Random.gif" width=62%/>
+
+<img src="Demo/wiki3new1.gif" width=80%/>
+
+
+### Edit the entry
+<img src="Demo/wiki4edit.gif" width=80%/>
+
+
+### Random page
+<img src="Demo/wiki5Random.gif" width=80%/>
 
 
 
