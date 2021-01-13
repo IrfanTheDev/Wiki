@@ -6,7 +6,7 @@ Wiki is the first project for Harvard CS50's Web Programming with Python and Jav
 The project specifications are listed [here](https://cs50.harvard.edu/web/2020/projects/1/wiki/).
 
 
-### Project Demos
+## Project Demos
 A [full demo of my project](https://youtu.be/nBfqfQ3IQqk) can be viewed on YouTube along with all [other CS50 Web Projects](https://www.youtube.com/playlist?list=PL6kIwIV_2O_gfcx46gplsaybo8c9vTb3d).
 
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
